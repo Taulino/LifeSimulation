@@ -1,0 +1,63 @@
+# =============== # Unity generated # ===============
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific settings
+Library/
+Logs/
+Temp/
+obj/
+Build/
+Builds/
+UserSettings/
+
+# Auto-generated VS/JetBrains Rider files
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Unity Build files
+ExportedObj/
+*.apk
+*.unitypackage
+
+# Cache files
+MemoryCaptures/
+
+# Exclude all .meta files except those in Assets
+!Assets/**/*.meta
+
+# Ignore local build artifacts
+*.bak
+*.cache
+*.pidb
+*.svd
+*.pdb
+*.ilk
+*.exp
+*.exe
+*.app
+*.so
+*.dll
+*.dylib
+*.ncb
+*.aps
+*.sdf
+*.opendb
+*.VC.db
+
+# Ignore crash reports and logs
+sysinfo.log
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Prevent uploading sensitive files
+.env
+.secrets
