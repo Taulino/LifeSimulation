@@ -1,0 +1,1 @@
+This repository contains EPQ (Extended Project Qualification) file and the project related to it. The project explores the ways it which one could research a lifecycle of a primitive system with predator and peaceful organisms through Genetic Algorithm and Machine Learning.
